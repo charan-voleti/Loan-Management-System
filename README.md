@@ -75,9 +75,9 @@ http://localhost:5000
 
 | Role     | Email                                       | Password     |
 | -------- | ------------------------------------------- | ------------ |
-| Admin    | [admin@lms.com](mailto:admin@lms.com)       | Admin@123    |
-| Sanction | [sanction@lms.com](mailto:sanction@lms.com) | Sanction@123 |
-| Borrower | [borrower@lms.com](mailto:borrower@lms.com) | Borrow@123   |
+| Admin    | [admin@test.com](mailto:admin@test.com)       |  123456  |
+| Sanction | [sanction@test.com](mailto:sanction@test.com) |  123456  |
+| Borrower | [borrower@test.com](mailto:borrower@test.com) |  123456  |
 
 ---
 
