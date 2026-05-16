@@ -1,0 +1,11 @@
+export enum LoanStatus {
+  APPLIED = "APPLIED",
+
+  REJECTED = "REJECTED",
+
+  SANCTIONED = "SANCTIONED",
+
+  DISBURSED = "DISBURSED",
+
+  CLOSED = "CLOSED",
+}
